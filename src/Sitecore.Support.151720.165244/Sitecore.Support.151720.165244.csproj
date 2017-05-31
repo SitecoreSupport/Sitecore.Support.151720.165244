@@ -45,7 +45,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Update, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SC.Sitecore.Update.8.2.3\lib\Sitecore.Update.dll</HintPath>
+      <HintPath>..\packages\SC.Sitecore.Update.8.2.2\lib\Sitecore.Update.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
